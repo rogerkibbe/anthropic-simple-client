@@ -15,7 +15,7 @@ To use this app, you need to have Node.js and NPM installed. Then, follow these 
 
 ## Configuration
 
-The app uses the `dotenv` library to load configuration options from a `.env` file. You need to create this file in the project directory and add the following configuration options:
+The app uses the `dotenv` library to load configuration options from a `.env` file. You need to create this file (or edit and rename the `.env.sample` file) in the project directory and add the following configuration options:
 
 - `ANTHROPIC_API_KEY=YOUR_API_KEY`
 
